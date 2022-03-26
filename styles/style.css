@@ -61,6 +61,7 @@ hr{
 .blog .thumbnail img{
     width: 177px;
     height: 117px;
+    margin-right: 20px;
 }
 .blog-info{
     margin-left: 16px;
